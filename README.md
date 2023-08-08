@@ -1,7 +1,7 @@
 # Noughts-and-Crosses
 
 
-![]([https:/https://github.com/ewerae/Noughts-and-Crosses/tictactoe.gif](https://github.com/ewerae/Noughts-and-Crosses/blob/main/tictactoe.gif))
+![](https://github.com/ewerae/Noughts-and-Crosses/blob/main/tictactoe.gif)
 
 
 Wanted an introduction to the SFML library so I made this simple 2 player tictactoe game in Linux.
