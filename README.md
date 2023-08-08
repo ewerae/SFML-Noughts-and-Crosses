@@ -1,10 +1,12 @@
 # Noughts-and-Crosses
-Wanted an introduction to the SFML library so I made this simple 2 player tictactoe game.
+Wanted an introduction to the SFML library so I made this simple 2 player tictactoe game in Linux.
 
+Just has the main core logic behind the game and in addition you can drag and drop symbols.
 
-Just has the main logic core, but you can drag and drop symbols.
-
-Eventually wanting to create a vs AI with this, maybe using the mixmac algorithm, but I'm using this as a placeholder so I can improve upon it.
+Eventually wanting to create a vs AI with this, maybe using the mixmax algorithm, but I'm using this as a placeholder so I have to improve upon it.
 There's something else I want to create currently.
 
-08/08/2023
+Create SFML tictactoe game - 08/08/2023
+Incorporate an AI version - 
+Create more simple board games - 
+Incorporate all in one program - 
