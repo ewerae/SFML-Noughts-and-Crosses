@@ -6,7 +6,10 @@ Just has the main core logic behind the game and in addition you can drag and dr
 Eventually wanting to create a vs AI with this, maybe using the mixmax algorithm, but I'm using this as a placeholder so I have to improve upon it.
 There's something else I want to create currently.
 
-Create SFML tictactoe game - 08/08/2023
-Incorporate an AI version - 
-Create more simple board games - 
-Incorporate all in one program - 
+-Create SFML tictactoe game - 08/08/2023
+
+-Incorporate an AI version - 
+
+-Create more simple board games - 
+
+-Incorporate all in one program - 
