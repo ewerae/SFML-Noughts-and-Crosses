@@ -8,7 +8,7 @@ There's something else I want to create currently.
 
 -Create SFML tictactoe game - 08/08/2023
 
--Incorporate an AI version - 
+-Incorporate an AI opponent - 
 
 -Create more simple board games - 
 
