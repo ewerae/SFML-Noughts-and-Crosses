@@ -1,4 +1,9 @@
 # Noughts-and-Crosses
+
+
+![](https:/https://github.com/ewerae/Noughts-and-Crosses/tictactoe.gif)
+
+
 Wanted an introduction to the SFML library so I made this simple 2 player tictactoe game in Linux.
 
 Just has the main core logic behind the game and in addition you can drag and drop symbols.
