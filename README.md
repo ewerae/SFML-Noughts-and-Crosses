@@ -6,15 +6,10 @@
 
 Wanted an introduction to the SFML library so I made this simple 2 player tictactoe game in Linux.
 
-Just has the main core logic behind the game and in addition you can drag and drop symbols.
+Has the main core logic, and in addition you can drag and drop. For now, the winner is displayed on the left hand side. 
 
-Eventually wanting to create a vs AI with this, maybe using the mixmax algorithm, but I'm using this as a placeholder so I have to improve upon it.
-There's something else I want to create currently.
+I want to incorporate some game theory in crafting the AI for this, but currently I want to create something else so.
 
--Create SFML tictactoe game - 08/08/2023
+Also want to expand onto adding a whole plethora of easy base games. With a UI to go between all. Could be fun.
 
--Incorporate an AI opponent - 
 
--Create more simple board games - 
-
--Incorporate all in one program - 
