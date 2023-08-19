@@ -10,6 +10,6 @@ Has the main core logic, and in addition you can drag and drop. For now, the win
 
 I want to incorporate some game theory in crafting the AI for this, but currently I want to create something else so.
 
-Also want to expand onto adding a whole plethora of easy base games, easily being able to traverse by using a simple UI. Could be fun ...
+Also want to expand onto adding a whole plethora of easy base games, easily being able to traverse by using a simple UI.
 
 
